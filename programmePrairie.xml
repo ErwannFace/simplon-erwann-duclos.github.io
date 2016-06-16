@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding="UTF-8" ?>
  <!DOCTYPE Programme SYSTEM "programmePedago.dtd">
-<?xml-stylesheet href="styleProgrammePedago.css" type="text/css" ?>
+<?xml-stylesheet href="css/styleProgrammePedago.css" type="text/css" ?>
 <root>
 	<Programme formation="Prairie">
 		<Module language="" group="Prairie">
