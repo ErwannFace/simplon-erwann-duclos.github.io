@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<!DOCTYPE Planning  SYSTEM 'programmePedago.dtd'>
+<?xml-stylesheet href="styleProgrammePedago.css" type="text/css" ?>
+<Planning >
+	<Semaine number="18">
+		<Jour number="1">
+			<Task time="1">SOC01</Task>
+			<Task time="1">SOC02</Task>
+			<Task time="1">SOC03</Task>
+			<Task time="1">SOC04</Task>
+			<Task time="3">LIN01</Task>
+		</Jour>
+		<Jour number="2">
+			<Task time="2">LIN02</Task>
+			<Task time="2">LIN03</Task>
+			<Task time="3">HTML00</Task>
+		</Jour>
+
+		<Jour number="3">
+			<Task time="4">SCRUM01</Task>
+			<Task time="2">GIT00</Task>
+			<Task time="1">HTML01</Task>
+		</Jour>
+		<Jour number="4" ferie="true">
+			<Task time="7">FERIE</Task>
+		</Jour>
+		<Jour number="5" ferie="true">
+			<Task time="7">FERIE</Task>
+		</Jour>
+	</Semaine>
+
+
+	<Semaine number="19">
+		<Jour number="1">
+			<Task time="3">CUL00</Task>
+			<Task time="4">JS00</Task>
+		</Jour>
+		<Jour number="2">
+			<Task time="3">SQL00</Task>
+			<Task time="3">JS00</Task>
+			<Task time="1">SQL00</Task>
+		</Jour>
+
+		<Jour number="3">
+			<Task time="1">CUL01</Task>
+			<Task time="3">HTML02</Task>
+			<Task time="3">PHP00</Task>
+
+		</Jour>
+		<Jour number="4">
+			<Task time="4">RUB00</Task>
+			<Task time="3">SOC05</Task>
+			
+		</Jour>
+		<Jour number="5">
+			<Task time="3">VIDEO</Task>
+			<Task time="4">FORUM</Task>
+		</Jour>
+	</Semaine>
+</Planning>
