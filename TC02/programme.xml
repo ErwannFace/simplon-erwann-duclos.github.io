@@ -1,0 +1,271 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<!DOCTYPE root
+  SYSTEM 'programmePedago.dtd'>
+<root>
+	<Programme formation="Tronc Commun">
+		<Module group="Tronc_Commun" language="HTML_CSS">
+			<Objectif>Concevoir une application en HTML et CSS</Objectif>
+			<PreRequis>Pré requis : N/A </PreRequis>
+			<Materiel>Un pc / apprenant + video proj + raspberry pi (</Materiel>
+			<Sequence evaluation="Brainstorming">
+				<Objectif>Reconnaître les forces et faiblesses des navigateurs internet</Objectif>
+				<Activite>
+					<Objectif>Lister les fonctionnalités des navigateurs internet</Objectif>
+					<Code>BRAIN02</Code>
+					<Description>Activité à réaliser en sous groupes de 2 personnes. Ces derniers devront, par le biais du navigateur de leur choix, inspecter une page.
+						Par le biais de l'inspecteur, ils devront :
+							- lister l'ensemble des bibliothèques JS liées
+							- lister l'ensemble des fichiers CSS liés
+							- lister l'ensemble de fonctionnalités disponibles par l'inspecteur</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Prendre conscience de l'interet de séparer la structure du graphisme</Objectif>
+				<Activite done="true">
+					<Objectif>Rédaction d'un XSLT </Objectif>
+					<Code>XML02</Code>
+					<SousObjectif></SousObjectif>
+					<Description>
+						Manipulez le XSLT afin d'avoir un rendu HTML de votre XML. 
+						Vous pouvez également utiliser le XSLT pour exporter vers un autre XML (ayant un autre DTD)! 
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Développer un site web en HTML5</Objectif>
+				
+				<Activite done="true">
+					<Objectif>Mise en pratique</Objectif>
+					<Code>HTML05</Code>
+					<SousObjectif>Prise de conscience de l'importance d'une spec détaillée avec le client</SousObjectif>
+					<Description>Continuez les projets initiés lors de la prairie. Mêmes équipes mais scindés en deux sous groupes, voire 3 pour le groupe de 6.</Description>
+				</Activite>
+				<Activite done="true">
+					<Objectif>Projet HTML</Objectif>
+					<Code>HTML09</Code>
+					<Description>
+						https://github.com/ErwannFace/Challenge_1
+						https://github.com/ErwannFace/Challenge_2
+						https://github.com/ErwannFace/Challenge_4
+					</Description>
+				</Activite>
+				
+			</Sequence>
+			<Sequence>
+				<Objectif>Initiation à l'accessibilité Web</Objectif>
+				<Activite>
+					<Objectif>Initiation à l'accessibilité Web</Objectif>
+					<Code>WEB01</Code>
+					<Description>http://www.commentcamarche.net/contents/1255-ergonomie-d-un-site-web
+						http://simplonline.co/uploads/images/Front_End/zuliegarnier/Web_accessibility_fr.png
+						https://www.w3.org/WAI/References/QuickTips/qt-fr.htm
+						http://simplonline.co/ressources/ress-methodo/50-normes-accessibilite-w3c
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
+		<Module group="Tronc_Commun" language="JS">
+			<Objectif>Concevoir une application web avec JavaScript</Objectif>
+			<PreRequis>N/A </PreRequis>
+			<Materiel>N/A </Materiel>
+			<Sequence>
+				<Objectif>Identifier les différentes fonctionnalités de JS</Objectif>
+				<Activite>
+					<Objectif>Identifier les différentes fonctionnalités de JS</Objectif>
+					<Code>JS01</Code>
+					<Description>
+						
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Programmer avec les fondamentaux du JavaScript</Objectif>
+				<Activite>
+					<Objectif>Programmer avec les fondamentaux du JavaScript</Objectif>
+					<Code>JS10</Code>
+					<Description>
+						https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/introduction-au-javascript
+
+						Exercices associés :
+						http://www.grappa.univ-lille3.fr/~torre/Enseignement/TPs/JavaScript/
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Créer un sommaire dynamique sans librairie externe</Objectif>
+					<Code>JS11</Code>
+					<Description>
+						Video explicative : https://www.grafikart.fr/tutoriels/javascript/sommaire-dynamique-667
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Projet Cookie clicker</Objectif>
+					<Code>JS12</Code>
+					<Description>
+						http://simplonline.co/ressources/19-defis/147-exercice-du-cookie-clicker
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Mettre en œuvre la gestion d'événements  au sein de JavaScript</Objectif>
+				<Activite>
+					<Objectif>Mettre en œuvre la gestion d'événements  au sein de JavaScript</Objectif>
+					<Code>JS20</Code>
+					<Description>
+						Video onClick au sein d'un formulaire : https://www.youtube.com/watch?v=NxTQyZuwFOw
+					</Description>
+
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Manipuler le DOM d’une page statique </Objectif>
+				<Activite>
+					<Objectif>Manipuler le DOM d’une page statique </Objectif>
+					<Code>JS30</Code>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Utiliser AJAX et le XMLHttpRequest</Objectif>
+				<Activite>
+					<Objectif>Utiliser AJAX et le XMLHttpRequest</Objectif>
+					<Code>JS40</Code>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Développer une application JS en POO </Objectif>
+				<Activite>
+					<Objectif>Le concept objet </Objectif>
+					<Code>JS50</Code>
+					<Description>
+						Cours théorique fait par Erwann. 
+
+						Puis
+						
+						https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php/introduction-a-la-poo
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Développer une application JS en POO </Objectif>
+					<Code>JS51</Code>
+					<Description>
+						Video : https://www.grafikart.fr/tutoriels/javascript/poo-javascript-object-466
+
+						Exercice : http://simplonline.co/ressources/13-ressources/152-exercice-javascript-les-objets
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Concevoir une application Web avec jQuery</Objectif>
+				<Activite>
+					<Objectif>Concevoir une application Web avec jQuery</Objectif>
+					<Code>JS60</Code>
+					<Description>
+Video Initiation à JQuery	https://www.grafikart.fr/tutoriels/jquery/initiation-jquery-84
+						
+Video La méthode pour manipuler les attributs HTML avec le Framework jQuery
+ : https://www.youtube.com/watch?v=7l2x-1nPzUk
+
+Video JQuery : Centrer une div : https://www.grafikart.fr/tutoriels/jquery/centrer-div-294
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Initiation au CoffeeScript </Objectif>
+				<Activite>
+					<Objectif>Initiation au CoffeeScript </Objectif>
+					<Code>JS70</Code>
+					<Description>
+						Video : https://www.grafikart.fr/tutoriels/javascript/coffeescript-493
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Se documenter sur le JS</Objectif>
+				<Activite>
+					<Objectif>Se documenter sur le JS </Objectif>
+					<Code>JS99</Code>
+					<Description>http://jsbooks.revolunet.com/</Description>
+				</Activite>
+			</Sequence>
+			
+		</Module>
+
+		<Module group="Tronc_Commun" language="Gestion de Projet">
+			<Objectif>Experimenter les différents rôles d'un chef de projet</Objectif>
+			<PreRequis>N/A </PreRequis>
+			<Materiel>N/A </Materiel>
+			<Sequence>
+				<Objectif>Communiquer avec un client</Objectif>
+				<Activite>
+					<Objectif>Code Combat</Objectif>
+					<Code>COD01</Code>
+					<Description>
+						http://simplonline.co/ressources/ress-culturegeek/220-comment-expliquer-la-programmation-aux-enfants
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
+		<Module group="Tronc_Commun" language="Culture Générale">
+			<Objectif>Identifier les éléments intrinsèques d'un développeur WEB</Objectif>
+			<PreRequis>N/A </PreRequis>
+			<Materiel>N/A </Materiel>
+			<Sequence>
+				<Objectif>Culture Générale sur l'informatique</Objectif>
+				<Activite>
+					<Objectif>Poses-toi une question</Objectif>
+					<Code>CUL00</Code>
+					<Description>Chaque semaine les apprenants définissent des thématiques à rechercher.
+						Chaque semaine, un apprenant sélectionné au hasard présente son axe de recherche</Description>
+					
+				</Activite>
+				
+				<Activite>
+					<Objectif>Le droit de l'informatique</Objectif>
+					<Code>CUL04</Code>
+					<Description>Brainstorming Intervention d'ange</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Compréhender le fonctionnement des serveurs </Objectif>
+					<Code>CUL05</Code>
+				</Activite>
+				<Activite>
+					<Objectif>Approfondir GIT </Objectif>
+					<Code>GIT01</Code>
+					<Description>
+						1) Réaliser une gitpage
+						2) Approfondir git avec https://github.com/git-tips/tips
+						3) http://jnthn.net/training/git/exercises.pdf
+						4) http://gitimmersion.com/
+					</Description>
+				</Activite>
+			</Sequence>
+		
+			<Sequence>
+				<Objectif>Initiation à l'algorithmie</Objectif>
+				<Activite>
+					<Objectif>Amusement park in Algobox</Objectif>
+					<Code>ALGO01</Code>
+					<Description>
+						Sur Algobox : 
+http://www.methodemaths.fr/exoalgo/#partiedecimale
+					</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Projets</Objectif>
+				<Activite>
+					<Objectif>Projet Profesionel</Objectif>
+					<Code>PROJ</Code>
+					<Description>Répondre à un cahier des charges d'un commanditaire.</Description>
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Insertion Professionelle expliquée par Face</Objectif>
+				<Activite>
+					<Objectif>Insertion Profesionelle</Objectif>
+					<Code>INS PRO</Code>
+					<Description>Géré par Face</Description>
+				</Activite>
+			</Sequence>
+		</Module>
+	</Programme>
+</root>

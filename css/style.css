@@ -40,7 +40,7 @@ Sequence{
 	text-align: left;
 }
 Activite{
-	display: block;
+	display: none;
 	margin-left : 2em;
 	font-size: 12px;
 }
@@ -145,8 +145,12 @@ Activite[done="true"]{
 .w3-navbar > li{
 	 clear: both;
 }
+.w3-sidenav{
+	width:20%;
+}
 #snap{
 	margin-top:2em;
+	_height:400px;
 	text-align:center;
 	background-color:whitesmoke;
 }
