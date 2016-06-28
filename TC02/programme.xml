@@ -44,9 +44,10 @@
 					<Objectif>Projet HTML</Objectif>
 					<Code>HTML09</Code>
 					<Description>
-						https://github.com/ErwannFace/Challenge_1
-						https://github.com/ErwannFace/Challenge_2
-						https://github.com/ErwannFace/Challenge_4
+https://github.com/ErwannFace/Challenge_1
+https://github.com/ErwannFace/Challenge_2
+https://github.com/ErwannFace/Challenge_4
+https://github.com/ErwannFace/Challenge_5
 					</Description>
 				</Activite>
 				
@@ -56,10 +57,11 @@
 				<Activite>
 					<Objectif>Initiation à l'accessibilité Web</Objectif>
 					<Code>WEB01</Code>
-					<Description>http://www.commentcamarche.net/contents/1255-ergonomie-d-un-site-web
-						http://simplonline.co/uploads/images/Front_End/zuliegarnier/Web_accessibility_fr.png
-						https://www.w3.org/WAI/References/QuickTips/qt-fr.htm
-						http://simplonline.co/ressources/ress-methodo/50-normes-accessibilite-w3c
+					<Description>
+http://www.commentcamarche.net/contents/1255-ergonomie-d-un-site-web
+http://simplonline.co/uploads/images/Front_End/zuliegarnier/Web_accessibility_fr.png
+https://www.w3.org/WAI/References/QuickTips/qt-fr.htm
+http://simplonline.co/ressources/ress-methodo/50-normes-accessibilite-w3c
 					</Description>
 				</Activite>
 			</Sequence>
@@ -84,34 +86,38 @@
 					<Objectif>Programmer avec les fondamentaux du JavaScript</Objectif>
 					<Code>JS10</Code>
 					<Description>
-						https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/introduction-au-javascript
+https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/introduction-au-javascript
 
-						Exercices associés :
-						http://www.grappa.univ-lille3.fr/~torre/Enseignement/TPs/JavaScript/
+Exercices associés :
+https://github.com/ErwannFace/JS_Exercice-01
+https://github.com/ErwannFace/JS_Exercice-01-Bonus
+http://www.grappa.univ-lille3.fr/~torre/Enseignement/TPs/JavaScript/
 					</Description>
 				</Activite>
 				<Activite>
-					<Objectif>Créer un sommaire dynamique sans librairie externe</Objectif>
+					<Objectif>Programmer en JavaScript</Objectif>
 					<Code>JS11</Code>
 					<Description>
-						Video explicative : https://www.grafikart.fr/tutoriels/javascript/sommaire-dynamique-667
+https://github.com/ErwannFace/JS_Exercice-02
+https://github.com/ErwannFace/JS_Exercice-03					
+Video explicative : https://www.grafikart.fr/tutoriels/javascript/sommaire-dynamique-667
 					</Description>
 				</Activite>
-				<Activite>
-					<Objectif>Projet Cookie clicker</Objectif>
-					<Code>JS12</Code>
-					<Description>
-						http://simplonline.co/ressources/19-defis/147-exercice-du-cookie-clicker
-					</Description>
-				</Activite>
+
 			</Sequence>
 			<Sequence>
 				<Objectif>Mettre en œuvre la gestion d'événements  au sein de JavaScript</Objectif>
 				<Activite>
+					<Objectif>Projet Cookie clicker</Objectif>
+					<Code>JS12</Code>
+					<Description>
+http://simplonline.co/ressources/19-defis/147-exercice-du-cookie-clicker
+					</Description>
+				</Activite>
+				<Activite>
 					<Objectif>Mettre en œuvre la gestion d'événements  au sein de JavaScript</Objectif>
 					<Code>JS20</Code>
 					<Description>
-						Video onClick au sein d'un formulaire : https://www.youtube.com/watch?v=NxTQyZuwFOw
 					</Description>
 
 				</Activite>
@@ -247,6 +253,23 @@ Video JQuery : Centrer une div : https://www.grafikart.fr/tutoriels/jquery/centr
 					<Description>
 						Sur Algobox : 
 http://www.methodemaths.fr/exoalgo/#partiedecimale
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Pratiquer l'algorithmie</Objectif>
+					<Code>ALGO02</Code>
+					<Description>Avec uniquement un papier et un crayon, réaliser les algorithmes suivants : 
+						- Plus Grand / Plus Petit
+						- Convertir une heure du AM/PM format au format militaire sur 24h. Sachant que 12AM = 12h00 et 12PM = 0h00
+						- Créer une fonction réalisant la somme de N chiffres
+						- Créer une fonction trouvant le plus petit élément d'un tableau
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Approfondir l'algo avec le JS</Objectif>
+					<Code>ALGOJS</Code>
+					<Description>
+https://github.com/simplonco/js-recall
 					</Description>
 				</Activite>
 			</Sequence>

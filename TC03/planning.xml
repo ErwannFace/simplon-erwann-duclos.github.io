@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<!DOCTYPE Planning  SYSTEM 'programmePedago.dtd'>
+<Planning >
+	<Semaine number="28">
+		<Jour number="1">
+			<Task time="4">COD01</Task>
+			<Task time="3"></Task>
+		</Jour>
+		<Jour number="2"><Task time="7"></Task></Jour>
+		<Jour number="3">
+			<Task time="5"></Task>
+			<Task time="2">HTML09</Task>
+		</Jour>
+		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="5"><Task time="7"></Task></Jour>
+	</Semaine>
+	<Semaine number="29">
+		<Jour number="1"><Task time="7"></Task></Jour>
+		<Jour number="2"><Task time="7"></Task></Jour>
+		<Jour number="3">
+			<Task time="5"></Task>
+			<Task time="2">HTML09</Task>
+		</Jour>
+		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="5"><Task time="7"></Task></Jour>
+	</Semaine>
+	<Semaine number="30">
+		<Jour number="1"><Task time="7"></Task></Jour>
+		<Jour number="2"><Task time="7"></Task></Jour>
+		<Jour number="3">
+			<Task time="5"></Task>
+			<Task time="2">HTML09</Task>
+		</Jour>
+		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="5"><Task time="7"></Task></Jour>
+	</Semaine>
+	<Semaine number="31">
+		<Jour number="1"><Task time="7"></Task></Jour>
+		<Jour number="2"><Task time="7"></Task></Jour>
+		<Jour number="3">
+			<Task time="5"></Task>
+			<Task time="2">HTML09</Task>
+		</Jour>
+		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="5"><Task time="7"></Task></Jour>
+	</Semaine>
+</Planning>

@@ -51,23 +51,22 @@
 	</Semaine>
 	<Semaine number="26">
 		<Jour number="1">
-			<Task time="1">CUL00</Task>
-			<Task time="2">HTML09</Task>
+			<Task time="3">HTML09</Task>
 			<Task time="4">COD01</Task>
 		</Jour>
 		<Jour number="2">
-			<Task time="1">JS01</Task>
-			<Task time="2">JS10</Task>
-			<Task time="4">COD01</Task>
+			<Task time="4">ALGO02</Task>
+			<Task time="3">COD01</Task>
 		</Jour>
 		<Jour number="3">
-			<Task time="1">JS10</Task>
-			<Task time="4">JS11</Task>
-			<Task time="2">JS12</Task>
-			
+			<Task time="3">PROJ</Task>
+			<Task time="3">JS11</Task>
+			<Task time="1">JS12</Task>
 		</Jour>
-		<Jour number="4" ferie="true">
-			<Task time="7">INS PRO</Task>
+		<Jour number="4">
+			<Task time="3">PROJ</Task>
+			<Task time="2">ALGO02</Task>
+			<Task time="2">GIT01</Task>
 		</Jour>
 		<Jour number="5">
 			<Task time="2">JS11</Task>
@@ -75,5 +74,20 @@
 			<Task time="4">COD01</Task>
 		</Jour>
 	</Semaine>
-	
+	<Semaine number="27">
+		<Jour number="1">
+			<Task time="4">ALGOJS</Task>
+			<Task time="3">COD01</Task>
+		</Jour>
+		<Jour number="2">
+			<Task time="3">PROJ</Task>
+			<Task time="4">COD01</Task>
+		</Jour>
+		<Jour number="3"><Task time="7"></Task></Jour>
+		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="5">
+			<Task time="2">JS50</Task>
+			<Task time="4">COD01</Task>
+		</Jour>
+	</Semaine>
 </Planning>
