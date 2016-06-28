@@ -55,8 +55,8 @@
 			<Task time="4">COD01</Task>
 		</Jour>
 		<Jour number="2">
-			<Task time="4">ALGO02</Task>
-			<Task time="3">COD01</Task>
+			<Task time="3">ALGO02</Task>
+			<Task time="4">COD01</Task>
 		</Jour>
 		<Jour number="3">
 			<Task time="3">PROJ</Task>
@@ -74,20 +74,5 @@
 			<Task time="4">COD01</Task>
 		</Jour>
 	</Semaine>
-	<Semaine number="27">
-		<Jour number="1">
-			<Task time="4">ALGOJS</Task>
-			<Task time="3">COD01</Task>
-		</Jour>
-		<Jour number="2">
-			<Task time="3">PROJ</Task>
-			<Task time="4">COD01</Task>
-		</Jour>
-		<Jour number="3"><Task time="7"></Task></Jour>
-		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
-		<Jour number="5">
-			<Task time="2">JS50</Task>
-			<Task time="4">COD01</Task>
-		</Jour>
-	</Semaine>
+
 </Planning>
